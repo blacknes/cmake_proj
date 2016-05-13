@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../include/Start.h
+
+/home/nilll/Desktop/SystemMaker/cmake_proj/start/Start.cpp
+iostream
+-
+Start.h
+/home/nilll/Desktop/SystemMaker/cmake_proj/start/Start.h
+

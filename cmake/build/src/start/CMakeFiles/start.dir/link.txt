@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../lib/libstart.a  CMakeFiles/start.dir/home/nilll/Desktop/SystemMaker/cmake_proj/start/Start.o
+/usr/bin/ranlib ../../../lib/libstart.a

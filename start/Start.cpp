@@ -7,6 +7,6 @@ using namespace std;
 
 void Start::init()
 {
-	cout << "init file func" << endl;
+	cout << "init file func from start.cpp" << endl;
 
 }

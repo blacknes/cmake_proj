@@ -1,0 +1,3 @@
+/home/nilll/Desktop/SystemMaker/cmake_proj/cmake/build/src/cvpart/CMakeFiles/cvpart.dir
+/home/nilll/Desktop/SystemMaker/cmake_proj/cmake/build/src/main/CMakeFiles/main.dir
+/home/nilll/Desktop/SystemMaker/cmake_proj/cmake/build/src/start/CMakeFiles/start.dir

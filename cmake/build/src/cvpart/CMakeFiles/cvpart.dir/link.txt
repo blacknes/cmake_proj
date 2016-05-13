@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../lib/libcvpart.a  CMakeFiles/cvpart.dir/home/nilll/Desktop/SystemMaker/cmake_proj/cvpart/FaceReconition.o
+/usr/bin/ranlib ../../../lib/libcvpart.a

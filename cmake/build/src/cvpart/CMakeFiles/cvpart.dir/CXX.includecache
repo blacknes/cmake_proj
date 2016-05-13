@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../include/FaceReconition.hpp
+iostream
+-
+opencv2/opencv.hpp
+-
+
+/home/nilll/Desktop/SystemMaker/cmake_proj/cvpart/FaceReconition.cpp
+FaceReconition.hpp
+/home/nilll/Desktop/SystemMaker/cmake_proj/cvpart/FaceReconition.hpp
+

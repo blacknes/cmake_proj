@@ -1,5 +1,5 @@
 
-PROJECT(OS_Nill)
+PROJECT(CV_Nill)
 
 
 SET(PROJECT_ROOT_PATH "${CMAKE_SOURCE_DIR}/../")                 #工程的根目录，即cmake_proj
